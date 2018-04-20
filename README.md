@@ -8,3 +8,5 @@ Web Scrapping
 - Import packages requests
 - Simpan URL
 - panggil contents requests 
+- Buat class contents
+- Buat class response
